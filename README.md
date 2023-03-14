@@ -43,4 +43,4 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 
 ### Instale usando o terminal com webext
 
-Em breve.
+Em breve. 
