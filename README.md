@@ -1,6 +1,10 @@
 # Accounts Importer  [![Built with love](https://img.shields.io/badge/made%20with-javascript-yellow?style=for-the-badge)](https://github.com/rafahsilv247/Accounts-Importer/releases/latest) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KoField)
 
-Está extensão tem finalidade de importar dados de sites, suportando os segunites navegadpres: Chrome, Opera e Firefox construído usando as APIs WebExtensions.
+Está extensão tem finalidade de importar dados de sites de streamings netflix, prime video, crunchyroll e etc, suportando os seguintes navegadpres: Chrome, Opera e Firefox construído usando as APIs WebExtensions.
+
+## Obter Contas
+
+As contas estão sendo disponibilizadas no canal do telegram [Kofield ™](https://t.me/KoField)
 
 ## Como Usar
 
@@ -43,4 +47,4 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 
 ### Instale usando o terminal com webext
 
-Em breve.
+Em breve. 
