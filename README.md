@@ -1,4 +1,4 @@
-# Accounts Importer[![Built with love](https://img.shields.io/badge/made%20with-javascript-yellow?style=for-the-badge)](https://github.com/rafahsilv247/Accounts-Importer/releases//latest) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KoField)
+# Accounts Importer  [![Built with love](https://img.shields.io/badge/made%20with-javascript-yellow?style=for-the-badge)](https://github.com/rafahsilv247/Accounts-Importer/releases//latest) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KoField)
 
 Está extensão tem finalidade de importar dados de sites, suportando os segunites navegadpres: Chrome, Opera e Firefox construído usando as APIs WebExtensions.
 
