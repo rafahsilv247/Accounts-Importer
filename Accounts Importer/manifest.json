@@ -1,0 +1,18 @@
+{
+  "action": {
+     "default_icon": "icon.png",
+     "default_popup": "popup/main.html",
+     "default_title": "Accounts Importer"
+  },
+  "author": "KoField ™",
+  "description": "Importe contas premium de diversas plataformas e obtenha acesso gratuito",
+  "devtools_page": "https://t.me/KoField",
+  "host_permissions": [ "\u003Call_urls>" ],
+  "manifest_version": 3,
+  "icons": {
+    "96": "icon.png"
+  },
+  "name": "Accounts Importer",
+  "permissions": [ "cookies", "tabs", "storage" ],
+  "version": "1.0"
+}
