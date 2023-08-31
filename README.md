@@ -33,7 +33,7 @@ Após a instalação da extensão no seu navegador, siga os passos abaixos:
 
 ## Instalação
 
-#### Desktop
+#### DESKTOP
 
 Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. Atualmente, esta extensão/complemento funciona apenas em navegadores que suportam as APIs WebExtensions, como Chrome, Opera e Firefox 57 ou posterior.
 
@@ -62,3 +62,16 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 3. Clique no botão «carregar extensão temporal».
 4. No gerenciador de arquivos, selecione a pasta na qual contém a extensão descompactada, entre e selecione o arquivo ```manifest.json```.
 5. Aproveite
+
+
+## Android
+
+###Kiwi Broswer
+
+1. Instale o Kiwi Broswer na play store
+2. Toque nos três pontos, depois extensões
+3. Ative a opção  «modo de desenvolvedor».
+4. Clique no botão «from .zip/ .crx. .user.js».
+5. Selecione a pasta na qual contém a extensão compactada.
+6. Aproveite.
+3. Clique no botão 
