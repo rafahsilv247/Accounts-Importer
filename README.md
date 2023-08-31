@@ -70,4 +70,3 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 4. Clique no botão «from .zip/ .crx. .user.js».
 5. Selecione a pasta na qual contém a extensão compactada.
 6. Aproveite.
-3. Clique no botão 
