@@ -11,8 +11,9 @@ As contas estão sendo disponibilizadas no canal do telegram
 
 Você pode encontrar as últimas versões disponíveis abaixo:  
 
+[![Downloads](https://img.shields.io/github/downloads/rafahsilv247/Accounts-Importer/total.svg?style=for-the-badge)](https://github.com//rafahsilv247/Accounts-Importer/releases/latest)
 
-<a href="https://github.com/rafahsilv247/Accounts-Importer/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/v1.0-violet?style=for-the-badge&logo=Download"></a>
+<a href="https://github.com/rafahsilv247/Accounts-Importer/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/v1.0-violet?style=for-the-badge"></a>
 
 ## Como Usar
 
