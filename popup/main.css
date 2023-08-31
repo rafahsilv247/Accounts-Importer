@@ -6,6 +6,7 @@
     background-color: #d7b9b9;
 }
 
+
 .button,h1 {
     text-transform: uppercase;
 }
@@ -75,7 +76,7 @@ textarea {
     width: calc(100% - 40px);
     height: 70px;
     display: block;
-    color: #7389AE;
+    color: #b04d66;
     border: 1px solid #eca7b9b5;
     border-radius: 3px;
     box-shadow: inset 2px 1px 2px  rgba(0, 0, 0, 0.323);
@@ -85,7 +86,7 @@ textarea {
 }
 
 ::placeholder {
-    color: #a74c62;
+    color: #8a7077;
 }
 
 #separator {
