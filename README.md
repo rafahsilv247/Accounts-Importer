@@ -33,7 +33,7 @@ Após a instalação da extensão no seu navegador, siga os passos abaixos:
 
 ## Instalação
 
-#### DESKTOP
+## DESKTOP
 
 Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. Atualmente, esta extensão/complemento funciona apenas em navegadores que suportam as APIs WebExtensions, como Chrome, Opera e Firefox 57 ou posterior.
 
@@ -66,7 +66,7 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 
 ## Android
 
-###Kiwi Broswer
+### Kiwi Broswer
 
 1. Instale o Kiwi Broswer na play store
 2. Toque nos três pontos, depois extensões
