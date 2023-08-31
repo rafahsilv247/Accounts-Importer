@@ -10,9 +10,9 @@ As contas estão sendo disponibilizadas no canal do telegram [Kofield ™](https
 
 Após a instalação da extensão no seu navegador, siga os passos abaixos:
 
-1. Obtenha os dados no canal KoField ™.
+1. Obtenha os dados no canal do telegram KoField ™.
 2. Abra a extensão e cole na área de texto.
-3. Clique em obter conta.
+3. Clique em importar conta.
 4. Aproveite!
 
 ## Instalação
@@ -44,7 +44,3 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 3. Clique no botão «carregar extensão temporal».
 4. No gerenciador de arquivos, selecione a pasta na qual contém a extensão descompactada, entre e selecione o arquivo ```manifest.json```.
 5. Aproveite
-
-### Instale usando o terminal com webext
-
-Em breve. 
