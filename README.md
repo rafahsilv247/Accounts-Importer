@@ -6,9 +6,11 @@ Está extensão tem finalidade de importar dados de sites de streamings netflix,
 
 As contas estão sendo disponibilizadas no canal do telegram [Kofield ™](https://t.me/KoField)
 
-## Download
+## Download## Download 
 
-Para baixar a versão mais recente da extensão basta [clicar aqui](https://github.com/rafahsilv247/Accounts-Importer/releases/download/Beta/Accounts_Importer.zip)
+Você pode encontrar as últimas versões disponíveis abaixo:  
+
+<a href="https://github.com/mateus7g/crp-iframe-player/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/desktop-v1.3.0-violet?style=for-the-badge&logo=windows"></a>
 
 ## Como Usar
 
