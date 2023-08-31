@@ -7,7 +7,7 @@ Está extensão tem finalidade de importar dados de sites de streamings netflix,
 As contas estão sendo disponibilizadas no canal do telegram
 <a href="https://t.me/KoField" target="_blank"><img align="right" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-##O que são cookies? 
+## O que são cookies? 
 São responsáveis por armazenar suas preferências, o que evita que você precise preencher tudo de novo cada vez que acessa um site. Portanto, os cookies são arquivos de textos, enviados pelo site ao navegadorao visitar um site, na qual permite guardar dados de login de formar criptografadas.
 
 ### Download 
