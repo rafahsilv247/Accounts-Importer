@@ -13,7 +13,7 @@ Você pode encontrar as últimas versões disponíveis abaixo:
 
 
 
-<a href="https://github.com/rafahsilv247/Accounts-Importer/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/v1.0-violet?style=for-the-badgestyle=for-the-badge&logo=windows"></a>
+<a href="https://github.com/rafahsilv247/Accounts-Importer/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/desktop-v1.0-violet?style=for-the-badgestyle=for-the-badge&logo=windows"></a>
 
 ## Como Usar
 
