@@ -62,12 +62,10 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 5. Aproveite
 
 
-## Android
+## Android (Kiwi Broswer)
 
-### Kiwi Broswer
-
-1. Instale o Kiwi Broswer na play store
-2. Toque nos três pontos, depois extensões
+1. Após instalar o kiwi broswer através da PlayStore.
+2. Toque nos três pontos, depois extensões.
 3. Ative a opção  «modo de desenvolvedor».
 4. Clique no botão «from .zip/ .crx. .user.js».
 5. Selecione a pasta na qual contém a extensão compactada.
