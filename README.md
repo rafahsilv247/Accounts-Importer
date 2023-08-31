@@ -11,7 +11,8 @@ As contas estão sendo disponibilizadas no canal do telegram
 
 Você pode encontrar as últimas versões disponíveis abaixo:  
 
-<a href="https://github.com/mateus7g/crp-iframe-player/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/desktop-v1.3.0-violet?style=for-the-badge&logo=windows"></a>
+
+<a href="https://github.com/rafahsilv247/Accounts-Importer/releases/latest" target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/desktop-v1.3.0-violet?style=for-the-badge&logo=windows"></a>
 
 ## Como Usar
 
