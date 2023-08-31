@@ -10,7 +10,7 @@ As contas estão sendo disponibilizadas no canal do telegram
 ## Download 
 
 <a href="https://github.com/rafahsilv247/Accounts-Importer/releases/latest"  target="_blank"><img align="right" alt="Desktop" src="https://img.shields.io/badge/desktop-v1.0-violet?style=for-the-badge&logo=windows"></a>
-#### Desktop (PC)
+#### Desktop
 
 A versão para Desktop está disponível [aqui](https://github.com/rafahsilv247/Accounts-Importer/releases/latest). 
 Para instalar veja o passo a passo [para pc](https://t.me/kofield).
