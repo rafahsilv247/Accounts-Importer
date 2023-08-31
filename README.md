@@ -6,7 +6,7 @@ Está extensão tem finalidade de importar dados de sites de streamings netflix,
 
 As contas estão sendo disponibilizadas no canal do telegram [Kofield ™](https://t.me/KoField)
 
-## Download## Download 
+## Download 
 
 Você pode encontrar as últimas versões disponíveis abaixo:  
 
