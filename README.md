@@ -31,9 +31,7 @@ Após a instalação da extensão no seu navegador, siga os passos abaixos:
 3. Clique em importar conta.
 4. Aproveite!
 
-## Instalação
-
-## DESKTOP
+## Instalação  Desktop
 
 Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. Atualmente, esta extensão/complemento funciona apenas em navegadores que suportam as APIs WebExtensions, como Chrome, Opera e Firefox 57 ou posterior.
 
