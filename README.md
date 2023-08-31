@@ -2,7 +2,7 @@
 
 Está extensão tem finalidade de importar dados de sites de streamings netflix, prime video, crunchyroll e etc, suportando os seguintes navegadpres: Chrome, Opera e Firefox construído usando as APIs WebExtensions.
 
-## Obter Contas
+## Obter dados (cookies) de contas
 
 As contas estão sendo disponibilizadas no canal do telegram
 <a href="https://t.me/KoField" target="_blank"><img align="right" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
