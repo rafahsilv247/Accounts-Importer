@@ -73,5 +73,5 @@ Siga estas etapas se desejar instalar este aplicativo em seu navegador atual. At
 2. Toque nos três pontos, depois extensões.
 3. Ative a opção  «modo de desenvolvedor».
 4. Clique no botão «from .zip/ .crx. .user.js».
-5. Selecione a pasta na qual contém a extensão compactada.
+5. Localize e selecione o arquivo da extensão compactada.
 6. Aproveite.
